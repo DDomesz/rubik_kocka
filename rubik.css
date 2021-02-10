@@ -35,3 +35,6 @@ p{
 li{
   font-weight:bold;
 }
+img{
+    float:left;
+}
