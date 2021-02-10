@@ -9,7 +9,8 @@ background: url(hatterkocka.png);
 }
 
 #cimkep{
-  float:left;  
+  float:left;
+   height: 170px;
 }
 
 h1{
@@ -34,7 +35,4 @@ p{
 
 li{
   font-weight:bold;
-}
-img{
-    float:left;
 }
